@@ -1,6 +1,6 @@
 # 2021_wp_update
 
-
+![alt text](https://github.com/JoshJong/2021_wp_update/blob/main/css-update-2021-9-20.png)
 
 Update:
 H1 font style / H1 Before After / H2 font style / H2 Before /Global linehight@min-width: 48em
