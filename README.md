@@ -2,7 +2,10 @@
 
 ![alt text](https://github.com/JoshJong/2021_wp_update/blob/main/001-volunteer.png)
 
-![alt text](https://github.com/JoshJong/2021_wp_update/blob/main/cms.png)
+![alt text](https://github.com/JoshJong/2021_wp_update/blob/main/001-cms.png)
+
+
+![alt text](https://github.com/JoshJong/2021_wp_update/blob/main/001-cms.png)
 
 Update:
 H1 font style / H1 Before After / H2 font style / H2 Before /Global linehight@min-width: 48em
