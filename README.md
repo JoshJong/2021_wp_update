@@ -1,6 +1,6 @@
 # 2021_wp_update
 
-![alt text](https://github.com/JoshJong/2021_wp_update/blob/main/css-update-2021-9-20.png)
+![alt text](https://github.com/JoshJong/2021_wp_update/blob/main/001-volunteer.png)
 
 ![alt text](https://github.com/JoshJong/2021_wp_update/blob/main/cms.png)
 
