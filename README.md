@@ -18,7 +18,7 @@ H1 @cms:
 @css:
 
 part1---
-
+/* line 49 ~ 152*/
 /* Josh 2021 edited */
 header.entry-header{
 	display: flex;
@@ -129,7 +129,7 @@ h2:not(.widget-title):not(.home_info_sub):before, h4.sponsor-level-title:before 
 
 
 part2 ----
-/*line 2070 */
+/*line 2070 ~ 2202 */
 
 /*網站各個按鈕樣式*/
 /*  Josh edited 2021 Sept */
@@ -210,4 +210,57 @@ a.wp-block-button__link:active {
 	background-color: #23459A;
 }
 
-/* end - Josh edited 2021 Sept */
+
+input[type="text"],
+input[type="email"]:not(#subscribe-field-blog_subscription-4),
+input[type="url"],
+input[type="tel"],
+textarea {
+  border:  1px solid #060606 !important;
+  border-radius: 10px;
+  background: rgba(253, 215, 8, 0.1) !important;
+}
+input[type="text"]:focus,
+input[type="email"]:not(#subscribe-field-blog_subscription-4):focus,
+input[type="url"]:focus,
+input[type="tel"]:focus,
+textarea:focus {
+	border:  1px solid #060606 !important;
+}
+select {
+	border:  1px solid #060606 !important;
+  border-radius: 10px;
+  background: rgba(253, 215, 8, 0.1) !important;
+}
+
+p.contact-submit{
+	text-align: center;
+}
+button:not([name="jetpack_subscriptions_widget"]):not(.menu-toggle):not(.dropdown-toggle), input[type="button"], input[type="submit"] {
+    background: #FDD708;
+    border: 2px solid #060606;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 0.7em 3.5em;
+    margin: 1em 2em;
+    filter: drop-shadow(0px 4px 0px #000000);
+}
+
+
+
+button.dropdown-toggle {color:#ffffff;}
+button:not([name="jetpack_subscriptions_widget"]):not(.menu-toggle):not(.dropdown-toggle):hover, input[type="button"]:hover, input[type="submit"]:hover {
+	background: #FDD708;
+    border: 2px solid #060606;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 0.7em 3.5em;
+    margin: 1em 2em;
+    filter: drop-shadow(0px 4px 0px #000000);
+}
+button.dropdown-toggle:hover {/*color:#ffffff;*/}
+/* end- Josh edtied 2021 Sept*/
