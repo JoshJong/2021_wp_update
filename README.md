@@ -1,5 +1,27 @@
 # 2021_wp_update
 
+
+Oct-10
+<div class=" wp-block-group heading-group heading-bracket"><div class="wp-block-group__inner-container_language">
+<h4 class="has-text-align-center">繁體中文</h4>
+</div></div>
+
+<div style="height:3em;"></div>
+<div class=" wp-block-group heading-group heading-bracket"><div class="wp-block-group__inner-container_header">
+<h3 class="has-text-align-center  header">WordCamp 相聚，無所畏「距」</h3>
+</div></div>
+
+<div style="height:3em;"></div>
+<div class=" wp-block-group heading-group heading-bracket"><div class="wp-block-group__inner-container_header">
+<h3 class="has-text-align-center  header">Work From Home Cannot Stop us. <br>Let’s WordPress From Home.</h3>
+</div></div>
+
+![alt text]()
+
+
+
+
+<!------------------------------------->
 ![alt text](https://github.com/JoshJong/2021_wp_update/blob/main/001-volunteer.png)
 
 ![alt text](https://github.com/JoshJong/2021_wp_update/blob/main/001-cms.png)
