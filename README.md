@@ -16,7 +16,7 @@ Oct-10
 <h3 class="has-text-align-center  header">Work From Home Cannot Stop us. <br>Let’s WordPress From Home.</h3>
 </div></div>
 
-![alt text]()
+![alt text](https://github.com/JoshJong/2021_wp_update/blob/main/heading-group-languages.png)
 
 
 
